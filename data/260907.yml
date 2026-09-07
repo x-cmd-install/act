@@ -5,13 +5,13 @@ about:
   head: 4f41128
   archived: false
   latestVersion: "v0.2.89"
-  collectedAt: 2026-09-07T04:48:20Z
+  collectedAt: 2026-09-07T19:36:29Z
 timeline:
   created: 2019-01-02
   lastCommit: 2026-06-01
   lastRelease: 2026-06-01
 popularity:
-  star: 71831
+  star: 71843
   watcher: 211
   fork: 2023
   release: 97
@@ -82,7 +82,7 @@ total:
   commit: 1317
 ---
 path: /home/runner/.x-repo/github.com/nektos/act
-collectedAt: 2026-09-07T04:48:25Z
+collectedAt: 2026-09-07T19:36:36Z
 loc:
   TypeScript:
     code: 618215
@@ -264,7 +264,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/checks.yml:89'
 ---
 eget:
-  collectedAt: 2026-09-07T04:48:32+00:00
+  collectedAt: 2026-09-07T19:36:38+00:00
   platform:
     darwin/arm64:
       name:  act_Darwin_arm64.tar.gz

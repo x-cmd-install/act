@@ -23,23 +23,39 @@ x install act
 - **Latest**: `v0.2.89` (2026-06-01)
 - **Last commit**: 2026-06-01
 - **Assets in release**: 12
-- **Published**: 2026-06-01T03:22:22Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [act_Darwin_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Darwin_arm64.tar.gz) | 7.4 MiB | `native/darwin/arm64` |
+| [act_Darwin_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Darwin_x86_64.tar.gz) | 7.9 MiB | `native/darwin/x64` |
+| [act_Linux_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_arm64.tar.gz) | 7.1 MiB | `native/linux/arm64` |
+| [act_Linux_armv6.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_armv6.tar.gz) | 7.4 MiB | `native/linux/arm` |
+| [act_Linux_armv7.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_armv7.tar.gz) | 7.4 MiB | `native/linux/arm` |
+| [act_Linux_i386.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_i386.tar.gz) | 7.5 MiB | `native/linux/x86` |
+| [act_Linux_riscv64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_riscv64.tar.gz) | 7.4 MiB | `native/linux/riscv64` |
+| [act_Linux_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.89/act_Linux_x86_64.tar.gz) | 7.8 MiB | `native/linux/x64` |
+| [act_Windows_arm64.zip](https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_arm64.zip) | 7.2 MiB | `native/win/arm64` |
+| [act_Windows_i386.zip](https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_i386.zip) | 7.8 MiB | `native/win/x64` |
+| [act_Windows_x86_64.zip](https://github.com/nektos/act/releases/download/v0.2.89/act_Windows_x86_64.zip) | 8.0 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/nektos/act/releases/download/v0.2.89/checksums.txt) | 981 B | `other` |
 
 ## Popularity
 
-- **Stars**: 71,867 · **Forks**: 2,022 · **Open issues**: 1,349 · **Contributors**: 215
+- **Stars**: 71,874 · **Forks**: 2,023 · **Open issues**: 1,350 · **Contributors**: 215
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 1061 · **Open PRs**: 113 · **Closed issues**: 1084 · **Open issues**: 265 · **Commits**: 1317
+- **Releases**: 97 · **Merged PRs**: 1061 · **Open PRs**: 114 · **Closed issues**: 1084 · **Open issues**: 266 · **Commits**: 1317
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 14 | 1 | 6 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 40 | 2 | 12 | 0 |
-| 360d | 2025-09-15 | 8 | 11 | 87 | 14 | 47 | 21 |
+| 30d | 2026-08-11 | 0 | 0 | 15 | 1 | 7 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 41 | 2 | 13 | 0 |
+| 360d | 2025-09-15 | 8 | 11 | 88 | 14 | 48 | 21 |
 
 ## Code size
 
@@ -68,8 +84,8 @@ Lowest-scoring checks:
 Install metadata for act lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `act` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/act.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/act.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:06:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:45:51Z._

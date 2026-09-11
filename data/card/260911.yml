@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.89"
   latestRelease: "v0.2.89"
   latestPrerelease: "v0.2.2"
-  collectedAt: 2026-09-11T05:08:22Z
+  collectedAt: 2026-09-11T19:47:32Z
 timeline:
   created: 2019-01-02
   lastCommit: 2026-06-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-01
   lastPrerelease: 2020-02-25
 popularity:
-  star: 71884
+  star: 71892
   watcher: 211
   fork: 2023
   release: 97
@@ -86,7 +86,7 @@ total:
   commit: 1317
 ---
 path: /home/runner/.x-repo/github.com/nektos/act
-collectedAt: 2026-09-11T05:08:27Z
+collectedAt: 2026-09-11T19:47:36Z
 loc:
   TypeScript:
     code: 618215

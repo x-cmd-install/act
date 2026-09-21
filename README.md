@@ -4,7 +4,7 @@
 
 Run your GitHub Actions locally 🚀
 
-![act](https://repo.x-cmd.io/act.svg)
+[![x-cmd/install — act Code Quality Monitoring Repo Card](https://repo.x-cmd.io/act.svg)](https://x-cmd.com/install/act)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 72,036 · **Forks**: 2,035 · **Open issues**: 1,350 · **Contributors**: 215
+- **Stars**: 72,067 · **Forks**: 2,039 · **Open issues**: 1,350 · **Contributors**: 215
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 13 | 1 | 6 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 34 | 1 | 8 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 39 | 2 | 11 | 0 |
-| last180d | 2026-03-22 | 5 | 4 | 67 | 4 | 22 | 10 |
-| 360d | 2025-09-23 | 8 | 10 | 89 | 14 | 44 | 20 |
-| last720d | 2024-09-28 | 22 | 111 | 110 | 74 | 134 | 137 |
+| 30d | 2026-08-22 | 0 | 0 | 13 | 0 | 6 | 0 |
+| last60d | 2026-07-23 | 0 | 0 | 34 | 1 | 8 | 0 |
+| 90d | 2026-06-23 | 0 | 0 | 39 | 2 | 10 | 0 |
+| last180d | 2026-03-25 | 4 | 3 | 64 | 4 | 22 | 5 |
+| 360d | 2025-09-26 | 8 | 10 | 89 | 14 | 43 | 19 |
+| last720d | 2024-10-01 | 22 | 110 | 110 | 73 | 134 | 136 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for act lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:13:54Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:18:06Z._

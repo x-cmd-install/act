@@ -4,7 +4,7 @@
 
 Run your GitHub Actions locally 🚀
 
-[![x-cmd/install — act Code Quality Monitoring Repo Card](https://repo.x-cmd.io/act.svg)](https://x-cmd.com/install/act)
+[![x-cmd/install — act Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/act.svg)](https://x-cmd.com/install/act)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 72,074 · **Forks**: 2,040 · **Open issues**: 1,352 · **Contributors**: 215
+- **Stars**: 72,082 · **Forks**: 2,042 · **Open issues**: 1,353 · **Contributors**: 215
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 1061 · **Open PRs**: 115 · **Closed issues**: 1084 · **Open issues**: 268 · **Commits**: 1317
+- **Releases**: 97 · **Merged PRs**: 1061 · **Open PRs**: 115 · **Closed issues**: 1084 · **Open issues**: 269 · **Commits**: 1317
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 14 | 0 | 8 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 34 | 1 | 10 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 39 | 2 | 12 | 0 |
-| last180d | 2026-03-26 | 3 | 2 | 64 | 4 | 24 | 5 |
-| 360d | 2025-09-27 | 8 | 10 | 88 | 14 | 45 | 19 |
-| last720d | 2024-10-02 | 21 | 110 | 110 | 72 | 136 | 135 |
+| 30d | 2026-08-24 | 0 | 0 | 14 | 0 | 9 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 33 | 1 | 11 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 39 | 1 | 13 | 0 |
+| last180d | 2026-03-27 | 3 | 2 | 63 | 4 | 25 | 5 |
+| 360d | 2025-09-28 | 8 | 10 | 88 | 14 | 46 | 19 |
+| last720d | 2024-10-03 | 21 | 110 | 110 | 72 | 137 | 135 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for act lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:11:33Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:12Z._

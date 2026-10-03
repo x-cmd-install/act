@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 72,188 · **Forks**: 2,049 · **Open issues**: 1,354 · **Contributors**: 215
+- **Stars**: 72,201 · **Forks**: 2,052 · **Open issues**: 1,354 · **Contributors**: 215
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 0 | 0 | 5 | 0 | 6 | 0 |
-| last60d | 2026-08-03 | 0 | 0 | 27 | 1 | 12 | 0 |
-| 90d | 2026-07-04 | 0 | 0 | 38 | 1 | 13 | 0 |
-| last180d | 2026-04-05 | 2 | 2 | 54 | 4 | 23 | 4 |
-| 360d | 2025-10-07 | 7 | 9 | 88 | 14 | 47 | 19 |
-| last720d | 2024-10-12 | 21 | 108 | 110 | 70 | 137 | 131 |
+| 30d | 2026-09-03 | 0 | 0 | 5 | 0 | 6 | 0 |
+| last60d | 2026-08-04 | 0 | 0 | 24 | 1 | 11 | 0 |
+| 90d | 2026-07-05 | 0 | 0 | 38 | 1 | 13 | 0 |
+| last180d | 2026-04-06 | 2 | 2 | 53 | 4 | 23 | 4 |
+| 360d | 2025-10-08 | 7 | 9 | 88 | 14 | 46 | 19 |
+| last720d | 2024-10-13 | 21 | 108 | 110 | 70 | 137 | 131 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for act lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:55:24Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:33:01Z._

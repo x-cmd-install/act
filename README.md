@@ -14,13 +14,13 @@ x install act
 
 ## Code insight
 
-Total: **816,934** lines of code across **1954** files in the top 5 languages.
+Total: **816,981** lines of code across **1954** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | TypeScript | 618,215 | 487,187 | 13,648 | 784 |
 | JavaScript | 162,392 | 29,780 | 26,473 | 776 |
-| Go | 24,500 | 1,105 | 3,423 | 128 |
+| Go | 24,524 | 1,106 | 3,423 | 128 |
 | Json | 7,675 | 0 | 0 | 91 |
 | Yaml | 3,594 | 48 | 240 | 175 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.2.89` (2026-06-01)
-- **Last commit**: 2026-06-01
+- **Last commit**: 2026-10-28
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 72,464 · **Forks**: 2,077 · **Open issues**: 1,357 · **Contributors**: 215
+- **Stars**: 72,470 · **Forks**: 2,080 · **Open issues**: 1,357 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 1061 · **Open PRs**: 125 · **Closed issues**: 1084 · **Open issues**: 273 · **Commits**: 1317
+- **Releases**: 97 · **Merged PRs**: 1067 · **Open PRs**: 117 · **Closed issues**: 1088 · **Open issues**: 269 · **Commits**: 1330
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 10 | 0 | 4 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 18 | 0 | 11 | 0 |
-| 90d | 2026-07-29 | 0 | 0 | 39 | 1 | 15 | 0 |
-| last180d | 2026-04-30 | 2 | 1 | 60 | 3 | 23 | 2 |
-| 360d | 2025-11-01 | 7 | 9 | 93 | 7 | 46 | 19 |
-| last720d | 2024-11-06 | 20 | 96 | 119 | 63 | 131 | 122 |
+| 30d | 2026-09-28 | 0 | 5 | 13 | 1 | 3 | 13 |
+| last60d | 2026-08-29 | 0 | 5 | 20 | 2 | 9 | 13 |
+| 90d | 2026-07-30 | 0 | 5 | 39 | 3 | 13 | 13 |
+| last180d | 2026-05-01 | 2 | 7 | 55 | 6 | 19 | 15 |
+| 360d | 2025-11-02 | 7 | 15 | 86 | 10 | 43 | 32 |
+| last720d | 2024-11-07 | 20 | 101 | 111 | 67 | 127 | 135 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for act lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:48Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:53:00Z._

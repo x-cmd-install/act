@@ -14,11 +14,11 @@ x install act
 
 ## 代码洞察
 
-合计: **38,024** 行代码（覆盖前 5 种语言、共 **363** 个文件）。
+合计: **38,400** 行代码（覆盖前 5 种语言、共 **364** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 27,240 | 1,242 | 3,689 | 144 |
+| Go | 27,616 | 1,278 | 3,719 | 145 |
 | JavaScript | 4,061 | 956 | 635 | 26 |
 | Yaml | 3,599 | 49 | 239 | 175 |
 | Json | 2,506 | 0 | 0 | 13 |
@@ -26,13 +26,13 @@ x install act
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.3 / 10**
+总评分: **7.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/18 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/20 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **CI-Tests** (-1/10) — internal error: internal error: Client.Repositories.ListCheckRunsForRef: error during graphqlHandler.setupCheckRuns: Alt…
 
 ## 源代码
 
@@ -42,45 +42,45 @@ x install act
 
 ## 发布
 
-- **最新版本**: `v0.2.92` (2026-10-28)
-- **最近提交**: 2026-10-28
+- **最新版本**: `v0.2.94` (2026-10-31)
+- **最近提交**: 2026-10-31
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 72,499 · **Fork**: 2,090 · **开放 issue**: 1,358 · **贡献者**: 214
+- **Star**: 72,505 · **Fork**: 2,095 · **开放 issue**: 1,359 · **贡献者**: 215
 
 ## 累计统计
 
-- **发布数**: 100 · **已合并 PR**: 1079 · **开放 PR**: 106 · **已关闭 issue**: 1090 · **开放 issue**: 268 · **提交数**: 1380
+- **发布数**: 102 · **已合并 PR**: 1081 · **开放 PR**: 106 · **已关闭 issue**: 1093 · **开放 issue**: 266 · **提交数**: 1386
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 17 | 8 | 2 | 2 | 63 |
-| last60d | 2026-09-01 | 3 | 17 | 13 | 4 | 7 | 63 |
-| 90d | 2026-08-02 | 3 | 17 | 31 | 5 | 12 | 63 |
-| last180d | 2026-05-04 | 4 | 19 | 45 | 8 | 18 | 65 |
-| 360d | 2025-11-05 | 10 | 27 | 77 | 12 | 42 | 82 |
-| last720d | 2024-11-10 | 23 | 113 | 100 | 69 | 125 | 185 |
+| 30d | 2026-10-02 | 5 | 19 | 8 | 2 | 3 | 69 |
+| last60d | 2026-09-02 | 5 | 19 | 12 | 4 | 7 | 69 |
+| 90d | 2026-08-03 | 5 | 19 | 31 | 5 | 13 | 69 |
+| last180d | 2026-05-05 | 6 | 21 | 45 | 8 | 19 | 71 |
+| 360d | 2025-11-06 | 12 | 29 | 77 | 12 | 43 | 88 |
+| last720d | 2024-11-11 | 25 | 114 | 100 | 70 | 125 | 191 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [act_Darwin_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Darwin_arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [act_Darwin_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Darwin_x86_64.tar.gz) | 8.2 MiB | `native/darwin/x64` |
-| [act_Linux_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
-| [act_Linux_armv6.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Linux_armv6.tar.gz) | 7.6 MiB | `native/linux/arm` |
-| [act_Linux_armv7.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Linux_armv7.tar.gz) | 7.6 MiB | `native/linux/arm` |
-| [act_Linux_i386.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Linux_i386.tar.gz) | 7.7 MiB | `native/linux/x86` |
-| [act_Linux_riscv64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Linux_riscv64.tar.gz) | 7.5 MiB | `native/linux/riscv64` |
-| [act_Linux_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.92/act_Linux_x86_64.tar.gz) | 8.1 MiB | `native/linux/x64` |
-| [act_Windows_arm64.zip](https://github.com/nektos/act/releases/download/v0.2.92/act_Windows_arm64.zip) | 7.4 MiB | `native/win/arm64` |
-| [act_Windows_i386.zip](https://github.com/nektos/act/releases/download/v0.2.92/act_Windows_i386.zip) | 8.0 MiB | `native/win/x64` |
-| [act_Windows_x86_64.zip](https://github.com/nektos/act/releases/download/v0.2.92/act_Windows_x86_64.zip) | 8.3 MiB | `native/win/x64` |
-| [checksums.txt](https://github.com/nektos/act/releases/download/v0.2.92/checksums.txt) | 981 B | `other` |
+| [act_Darwin_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Darwin_arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
+| [act_Darwin_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Darwin_x86_64.tar.gz) | 8.2 MiB | `native/darwin/x64` |
+| [act_Linux_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
+| [act_Linux_armv6.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_armv6.tar.gz) | 7.6 MiB | `native/linux/arm` |
+| [act_Linux_armv7.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_armv7.tar.gz) | 7.6 MiB | `native/linux/arm` |
+| [act_Linux_i386.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_i386.tar.gz) | 7.7 MiB | `native/linux/x86` |
+| [act_Linux_riscv64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_riscv64.tar.gz) | 7.5 MiB | `native/linux/riscv64` |
+| [act_Linux_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_x86_64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [act_Windows_arm64.zip](https://github.com/nektos/act/releases/download/v0.2.94/act_Windows_arm64.zip) | 7.4 MiB | `native/win/arm64` |
+| [act_Windows_i386.zip](https://github.com/nektos/act/releases/download/v0.2.94/act_Windows_i386.zip) | 8.0 MiB | `native/win/x64` |
+| [act_Windows_x86_64.zip](https://github.com/nektos/act/releases/download/v0.2.94/act_Windows_x86_64.zip) | 8.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/nektos/act/releases/download/v0.2.94/checksums.txt) | 981 B | `other` |
 
 ## 改进这些数据
 
@@ -91,4 +91,4 @@ act 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T05:50:16Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T06:20:41Z._

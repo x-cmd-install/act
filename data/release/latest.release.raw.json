@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7927936,
       "digest": "sha256:1dd0997a18ec872f3164b716605b950e61264332437e5e5977479ffeeb2a683f",
-      "download_count": 16,
+      "download_count": 107,
       "created_at": "2026-10-31T19:36:05Z",
       "updated_at": "2026-10-31T19:36:06Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Darwin_arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8587734,
       "digest": "sha256:0843730c8b201e914798d3f00e7f4fca3bcbcf1818370f238056dae611c85dd5",
-      "download_count": 8,
+      "download_count": 31,
       "created_at": "2026-10-31T19:36:05Z",
       "updated_at": "2026-10-31T19:36:05Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Darwin_x86_64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7653503,
       "digest": "sha256:d6376316eb1d82fbe693b097d60a2199b923f3c3d14d79e749130cf93dddff00",
-      "download_count": 49,
+      "download_count": 132,
       "created_at": "2026-10-31T19:36:06Z",
       "updated_at": "2026-10-31T19:36:07Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7988344,
       "digest": "sha256:91042036d5dadc3e8211739fa243271b935526c69b96f37649d5940473845b90",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-10-31T19:36:06Z",
       "updated_at": "2026-10-31T19:36:07Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_armv6.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7979737,
       "digest": "sha256:fb6166aca298b3914f7bb73837dbefec090e304e0eeeee778b55458aaf71c390",
-      "download_count": 8,
+      "download_count": 21,
       "created_at": "2026-10-31T19:36:05Z",
       "updated_at": "2026-10-31T19:36:05Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_armv7.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8058807,
       "digest": "sha256:7ee7467c5e06db7f1893b8dc40e769976d3067db35e75dbbf43d1ea9292d7452",
-      "download_count": 6,
+      "download_count": 23,
       "created_at": "2026-10-31T19:36:07Z",
       "updated_at": "2026-10-31T19:36:08Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_i386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7894922,
       "digest": "sha256:11b5d0cc3189ea03caf37fbf76baa460e27c10a9f964955276dfa87eab794015",
-      "download_count": 3,
+      "download_count": 9,
       "created_at": "2026-10-31T19:36:06Z",
       "updated_at": "2026-10-31T19:36:07Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_riscv64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8480123,
       "digest": "sha256:33e6748e3c07affb6855f19fb7a28bc6c344c1d0888fae0564e6d34d4a71915a",
-      "download_count": 298,
+      "download_count": 1423,
       "created_at": "2026-10-31T19:36:05Z",
       "updated_at": "2026-10-31T19:36:05Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Linux_x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7730104,
       "digest": "sha256:699bca1ad0097bb26e7c1322a4f090c56e01f60f5349adc7ba9e22c0ada81ff5",
-      "download_count": 21,
+      "download_count": 44,
       "created_at": "2026-10-31T19:36:07Z",
       "updated_at": "2026-10-31T19:36:08Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Windows_arm64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 8377076,
       "digest": "sha256:8194fc03d66a07de247025bc3e6eb78d49f2ca67f287adbf65ad43252357884f",
-      "download_count": 15,
+      "download_count": 31,
       "created_at": "2026-10-31T19:36:06Z",
       "updated_at": "2026-10-31T19:36:07Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Windows_i386.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 8693200,
       "digest": "sha256:ad6910dc0d16c1550854a67a1ae9404afe9f1b5f262480252135089dcc07305b",
-      "download_count": 132,
+      "download_count": 566,
       "created_at": "2026-10-31T19:36:07Z",
       "updated_at": "2026-10-31T19:36:08Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/act_Windows_x86_64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 981,
       "digest": "sha256:bcc018e12c30f9d875b36c01ef36dd11d4923bde9d6f0dd2313e54ab7aa2051a",
-      "download_count": 154,
+      "download_count": 816,
       "created_at": "2026-10-31T19:36:07Z",
       "updated_at": "2026-10-31T19:36:08Z",
       "browser_download_url": "https://github.com/nektos/act/releases/download/v0.2.94/checksums.txt"

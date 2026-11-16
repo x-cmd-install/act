@@ -14,11 +14,11 @@ x install act
 
 ## Code insight
 
-Total: **39,042** lines of code across **366** files in the top 5 languages.
+Total: **39,232** lines of code across **368** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,258 | 1,296 | 3,761 | 147 |
+| Go | 28,448 | 1,311 | 3,776 | 149 |
 | JavaScript | 4,061 | 956 | 635 | 26 |
 | Yaml | 3,599 | 49 | 239 | 175 |
 | Json | 2,506 | 0 | 0 | 13 |
@@ -30,7 +30,7 @@ Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/23 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -42,45 +42,45 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.2.97` (2026-11-04)
-- **Last commit**: 2026-11-04
+- **Latest**: `v0.2.98` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 72,695 · **Forks**: 2,125 · **Open issues**: 1,363 · **Contributors**: 214
+- **Stars**: 72,701 · **Forks**: 2,124 · **Open issues**: 1,363 · **Contributors**: 214
 
 ## Totals (cumulative)
 
-- **Releases**: 105 · **Merged PRs**: 1080 · **Open PRs**: 119 · **Closed issues**: 1116 · **Open issues**: 247 · **Commits**: 1389
+- **Releases**: 106 · **Merged PRs**: 1081 · **Open PRs**: 118 · **Closed issues**: 1141 · **Open issues**: 222 · **Commits**: 1393
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 8 | 19 | 18 | 0 | 6 | 72 |
-| last60d | 2026-09-16 | 8 | 19 | 25 | 4 | 9 | 72 |
-| 90d | 2026-08-17 | 8 | 19 | 36 | 5 | 15 | 72 |
-| last180d | 2026-05-19 | 9 | 19 | 58 | 7 | 22 | 73 |
-| 360d | 2025-11-20 | 15 | 28 | 90 | 26 | 31 | 91 |
-| last720d | 2024-11-25 | 28 | 108 | 113 | 92 | 105 | 190 |
+| 30d | 2026-10-17 | 9 | 20 | 17 | 0 | 6 | 76 |
+| last60d | 2026-09-17 | 9 | 20 | 23 | 4 | 9 | 76 |
+| 90d | 2026-08-18 | 9 | 20 | 35 | 5 | 15 | 76 |
+| last180d | 2026-05-20 | 10 | 20 | 57 | 7 | 22 | 77 |
+| 360d | 2025-11-21 | 16 | 29 | 89 | 24 | 31 | 94 |
+| last720d | 2024-11-26 | 29 | 108 | 112 | 116 | 80 | 193 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [act_Darwin_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Darwin_arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
-| [act_Darwin_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Darwin_x86_64.tar.gz) | 8.2 MiB | `native/darwin/x64` |
-| [act_Linux_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
-| [act_Linux_armv6.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Linux_armv6.tar.gz) | 7.6 MiB | `native/linux/arm` |
-| [act_Linux_armv7.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Linux_armv7.tar.gz) | 7.6 MiB | `native/linux/arm` |
-| [act_Linux_i386.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Linux_i386.tar.gz) | 7.7 MiB | `native/linux/x86` |
-| [act_Linux_riscv64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Linux_riscv64.tar.gz) | 7.5 MiB | `native/linux/riscv64` |
-| [act_Linux_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.97/act_Linux_x86_64.tar.gz) | 8.1 MiB | `native/linux/x64` |
-| [act_Windows_arm64.zip](https://github.com/nektos/act/releases/download/v0.2.97/act_Windows_arm64.zip) | 7.4 MiB | `native/win/arm64` |
-| [act_Windows_i386.zip](https://github.com/nektos/act/releases/download/v0.2.97/act_Windows_i386.zip) | 8.0 MiB | `native/win/x64` |
-| [act_Windows_x86_64.zip](https://github.com/nektos/act/releases/download/v0.2.97/act_Windows_x86_64.zip) | 8.3 MiB | `native/win/x64` |
-| [checksums.txt](https://github.com/nektos/act/releases/download/v0.2.97/checksums.txt) | 981 B | `other` |
+| [act_Darwin_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Darwin_arm64.tar.gz) | 7.6 MiB | `native/darwin/arm64` |
+| [act_Darwin_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Darwin_x86_64.tar.gz) | 8.2 MiB | `native/darwin/x64` |
+| [act_Linux_arm64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Linux_arm64.tar.gz) | 7.3 MiB | `native/linux/arm64` |
+| [act_Linux_armv6.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Linux_armv6.tar.gz) | 7.6 MiB | `native/linux/arm` |
+| [act_Linux_armv7.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Linux_armv7.tar.gz) | 7.6 MiB | `native/linux/arm` |
+| [act_Linux_i386.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Linux_i386.tar.gz) | 7.7 MiB | `native/linux/x86` |
+| [act_Linux_riscv64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Linux_riscv64.tar.gz) | 7.5 MiB | `native/linux/riscv64` |
+| [act_Linux_x86_64.tar.gz](https://github.com/nektos/act/releases/download/v0.2.98/act_Linux_x86_64.tar.gz) | 8.1 MiB | `native/linux/x64` |
+| [act_Windows_arm64.zip](https://github.com/nektos/act/releases/download/v0.2.98/act_Windows_arm64.zip) | 7.4 MiB | `native/win/arm64` |
+| [act_Windows_i386.zip](https://github.com/nektos/act/releases/download/v0.2.98/act_Windows_i386.zip) | 8.0 MiB | `native/win/x64` |
+| [act_Windows_x86_64.zip](https://github.com/nektos/act/releases/download/v0.2.98/act_Windows_x86_64.zip) | 8.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/nektos/act/releases/download/v0.2.98/checksums.txt) | 981 B | `other` |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for act lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:43:08Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:23:50Z._

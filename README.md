@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 1081 · **Open PRs**: 119 · **Closed issues**: 1188 · **Open issues**: 175 · **Commits**: 1393
+- **Releases**: 106 · **Merged PRs**: 1081 · **Open PRs**: 121 · **Closed issues**: 1190 · **Open issues**: 173 · **Commits**: 1393
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 9 | 20 | 17 | 0 | 6 | 76 |
-| last60d | 2026-09-20 | 9 | 20 | 23 | 4 | 9 | 76 |
-| 90d | 2026-08-21 | 9 | 20 | 34 | 4 | 15 | 76 |
-| last180d | 2026-05-23 | 10 | 20 | 54 | 8 | 21 | 77 |
-| 360d | 2025-11-24 | 16 | 29 | 89 | 24 | 30 | 94 |
-| last720d | 2024-11-29 | 29 | 108 | 113 | 142 | 53 | 193 |
+| 30d | 2026-10-21 | 9 | 20 | 19 | 0 | 6 | 76 |
+| last60d | 2026-09-21 | 9 | 20 | 24 | 3 | 8 | 76 |
+| 90d | 2026-08-22 | 9 | 20 | 36 | 4 | 15 | 76 |
+| last180d | 2026-05-24 | 10 | 20 | 56 | 8 | 21 | 77 |
+| 360d | 2025-11-25 | 16 | 29 | 91 | 26 | 28 | 94 |
+| last720d | 2024-11-30 | 29 | 108 | 115 | 143 | 51 | 193 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for act lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:43:39Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:29:25Z._

@@ -32,7 +32,7 @@ x install act
 
 - **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install act
 
 ## 流行度
 
-- **Star**: 72,767 · **Fork**: 2,117 · **开放 issue**: 1,364 · **贡献者**: 214
+- **Star**: 72,765 · **Fork**: 2,119 · **开放 issue**: 1,364 · **贡献者**: 214
 
 ## 累计统计
 
-- **发布数**: 106 · **已合并 PR**: 1081 · **开放 PR**: 126 · **已关闭 issue**: 1190 · **开放 issue**: 174 · **提交数**: 1393
+- **发布数**: 106 · **已合并 PR**: 1081 · **开放 PR**: 128 · **已关闭 issue**: 1190 · **开放 issue**: 174 · **提交数**: 1393
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 9 | 20 | 24 | 0 | 7 | 76 |
-| last60d | 2026-09-23 | 9 | 20 | 29 | 2 | 9 | 76 |
-| 90d | 2026-08-24 | 9 | 20 | 41 | 4 | 16 | 76 |
-| last180d | 2026-05-26 | 10 | 20 | 61 | 8 | 22 | 77 |
-| 360d | 2025-11-27 | 16 | 29 | 96 | 26 | 29 | 94 |
-| last720d | 2024-12-02 | 28 | 107 | 120 | 143 | 51 | 192 |
+| 30d | 2026-10-24 | 9 | 20 | 26 | 0 | 7 | 13 |
+| last60d | 2026-09-24 | 9 | 20 | 31 | 2 | 9 | 76 |
+| 90d | 2026-08-25 | 9 | 20 | 42 | 4 | 16 | 76 |
+| last180d | 2026-05-27 | 10 | 20 | 63 | 8 | 22 | 76 |
+| 360d | 2025-11-28 | 16 | 29 | 98 | 26 | 29 | 93 |
+| last720d | 2024-12-03 | 28 | 107 | 122 | 143 | 51 | 192 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ act 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T07:13:16Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T09:20:14Z._
